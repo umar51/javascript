@@ -1,0 +1,49 @@
+https://www.asmarterwaytolearn.com/js/index-of-exercises.html
+
+
+Lectures:
+https://www.youtube.com/watch?v=S6hovT7faxo&list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo&index=16
+
+Till Video 11:
+
+Compiler vs INterpreter
+	Compiler converts whole programs code to machine code and dhows error aftward execution. Its faster than interpreter.
+
+	Interpretor convert one line by line until error arives and it stops there. Its slower
+
+
+	COmpiler converts source code to machine and then gives output
+
+	interpreter converts source directly to machine code.
+
+
+Till video 20:
+
+DOM is html of webpage
+
+
+AJAX 
+
+	Asynchronous Javascript and xml
+
+	xmlhttps request is object created to communicate with server on background. 
+
+
+TIll video 31
+
+	Node.js is used for both server side and UI development.
+
+
+Video 32 - 45:
+
+	nodejs is server side as well as ui language, it runs without browser.
+	To run js file in node, in terminal enter 'node filename'
+	console.log will give output only in node, not in browser. 
+	
+	alert and document.write is only for browser.
+	
+	To run console.log in node, donot include alert or document.write in that code file, it will give error in node. 
+
+continue from video 37
+	
+
