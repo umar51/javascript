@@ -1,3 +1,17 @@
+
+var age = 43;
+
+var nationality ;
+
+nationality = "pakistani";
+
+alert(nationality);
+alert(age);
+
+nationality= "russian";
+
+console.log(nationality);
+
 alert("hello word");
 
 alert("again hello");

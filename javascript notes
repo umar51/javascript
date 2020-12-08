@@ -44,6 +44,8 @@ Video 32 - 45:
 	
 	To run console.log in node, donot include alert or document.write in that code file, it will give error in node. 
 
-continue from video 37
+	To write ' inside string, use " " , for " use ''
+
+continue from video 42
 	
 
