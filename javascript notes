@@ -46,6 +46,11 @@ Video 32 - 45:
 
 	To write ' inside string, use " " , for " use ''
 
-continue from video 42
+	NUll and undefined means no value assigned
+
+	when variable is initialized and no value is assigned to it then javascript automatically assigns undefined to it
+
+	Null is assigned by user.
+
 	
 
