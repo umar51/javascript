@@ -1,3 +1,4 @@
+Book
 https://www.asmarterwaytolearn.com/js/index-of-exercises.html
 
 
@@ -52,5 +53,40 @@ Video 32 - 45:
 
 	Null is assigned by user.
 
+
+Video 46-60
+
+	any data type can be stored in a var.
+
+	All of the instructions by coder in code are Statements. ; semicolon at end of each colon. Javascript also considers newline as end of 		previous line statement
+
+
+	Statements are consist of expressions like in statement x=a+b; a+b is one statement
+
+	VAriable names show consist of aphabets, numbers, underscore _ and dollar sign $.
+
+	1st letter can only be alphabet, dollarsign and underscore.NUmber cannot be 1st letter.
+
+	The keywords reserved for javascript syntax cannot be used individually as variable name, eg. for, while, in print etc. They can be 		used in combonition, like while$
+
+
+	javascript is case sensitive language. name row is not equal to rOw. 
+
+
+	Use camel case for names with more than one word like firstName, ageTen
+
+	Order of arthematic calculations
+	BODMAS Brackets > Order(powers) > Divide > Multiplication > Addition > Subtraction 
 	
+
+	in a++; ++ is uniary operator as it requires only one var to operate
+
+	increment or decrement operator can be used prefix or postfix. c= ++a, prefix increment here a increases and then saves into c
+	c=a++ postfix incremnt, it increase the original variable but saves old value of a into c
+
+
+	A number added to a string concatinates it into string
+
+continue from video 55
+
 
