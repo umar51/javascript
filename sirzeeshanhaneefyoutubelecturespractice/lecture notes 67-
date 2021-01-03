@@ -1,0 +1,25 @@
+
+
+https://www.youtube.com/watch?v=1UebIuDs5Bo&list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo&index=68
+
+
+1. comparison operators and "&&", or "||", not"!"
+
+2. if both conditions true then && wil give true
+
+3. If any of the conditions is true the || will give true.
+
+4. ! reverses result, like true to false and false to true
+
+5. any number is true and zero is false, 
+
+6. 6 is true !6 is false, !!6 is again true.
+
+7. A number can be converted to boolean with ! sign
+
+8. && and !! are called shortcuircit because if final result become apparent in mid of code then it does not executes the remaining code and returns the result.
+
+9. These comparison operators are used in if-else and loops to set conditions
+
+
+continue from 79

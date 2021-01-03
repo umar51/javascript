@@ -87,6 +87,23 @@ Video 46-60
 
 	A number added to a string concatinates it into string
 
-continue from video 55
+
+Video 61-
+
+	Prompt input saves values as string, if input is 5 and you add 5 to it within prompt it will display 55. its concatinated as string
+	
+	If user doesnot enter any value at the prompt then prompt display the default value passed into prompt() as 2nd argument
+
+	NAN means not a number
+
+	parseint() converts a string to int. If string doesnot have number it returns NaN. If 5.1 is passed to parseint() it is converted to 		integer which 5
+
+	parsefloat() converts a string to float. If string doesnot have number it returns NaN.
+
+	Number() converts a string to number(integer and float). If string doesnot have number it returns NaN.
+
+	Comparison operaters '==' and '===' perform similary function but the difference is that == does consider the data type i.e. '5'==5 		will return true but '5'===5 will return false because '===' also considers the data type
+
+
 
 
