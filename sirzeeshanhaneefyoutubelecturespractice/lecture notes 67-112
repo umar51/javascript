@@ -1,0 +1,54 @@
+
+
+https://www.youtube.com/watch?v=1UebIuDs5Bo&list=PLKvqnz8z1zWQdc0NSLknxmxBch5gLOqyo&index=68
+
+
+1. comparison operators and "&&", or "||", not"!"
+
+2. if both conditions true then && wil give true
+
+3. If any of the conditions is true the || will give true.
+
+4. ! reverses result, like true to false and false to true
+
+5. any number is true and zero is false, 
+
+6. 6 is true !6 is false, !!6 is again true.
+
+7. A number can be converted to boolean with ! sign
+
+8. && and !! are called shortcuircit because if final result become apparent in mid of code then it does not executes the remaining code and returns the result.
+
+9. These comparison operators are used in if-else and loops to set conditions
+
+10. FOllowing values will be FALSE in comparison operations, 
+	Zero, undefined, null, NaN, ""(empty string) 
+
+11. All values of string and numbers(except zero) will be TRUE in comparison.
+
+12. Similarly if simple value is passed to the if else condiiton, it will be converted to TRUE/FALSE and ture will run if while false will run else code
+
+13. Javascript for loop syntax 
+	for (initialization ; condition till loop will run; expression){code to run}
+
+14. above mentioned for loop condiitons are optional. If no condition is given in loop, it will run forever.
+
+15. break: expression inside a loop is used to exit the loop
+
+16. continue: expression is used inside loop to skip that specific iteration in whch loop is currently runnung and move to next iteration
+
+17. objects {} can also be put in arrays. Any type of data can be placed in arrays
+
+18 each element in arrays can be accesed through inex number. index number starts from 0
+
+19 If element of array is called with index number that is not in array then undefined is returned
+
+20 push function adds strings automatilcally to next index in an array. This is accessing data in Stack form
+
+21 pop function will remove the last index value of array. its also stack form data access
+
+22 shift function will remove an eklement at first index. its Queue data access method.
+
+23. shift function will add an eklement at first index. its Queue data access method.
+
+ 

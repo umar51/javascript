@@ -1,0 +1,57 @@
+
+
+1. splice functionj syntax:
+
+ 	array.splice(where to add, how many to remove, what to add)
+
+2. splice changes the array in original variable and gives the removed elements in its own variable
+
+3. slice does not change the original array variable, and saves the sliced array in its own variable
+
+	slice syntax:   array.slice(start index, end index) //end index is not included
+
+4. only one argument in slice is starting index and output will give elements from that index to the end
+
+5. other functions for arrays like: filter(), fuind(), indexOf(), lastIndexOf(), map(), reverse(), sort()
+
+6. escape characters to manuplate strings 
+
+
+7. Funcitons for string manipulation like : toLowerCase(), toUpperCase(), slice(), indexOf(), lastIndexOf(), charAt(), replace(), split()
+
+8. indexOf() gives the index number of specidfied string inside bigger string, if not found return -1.
+
+9. syntax indexOf("string to find index of", to find search from index)
+
+10. lastIndexOf() is similar to indexOf() but difference is that lastindex starts search from last to first index
+
+11. charAt() to get character at an index.
+
+12. replace() replaces the character with given charcter
+	syntax: replace(string to be replace, new string to place.
+ It does not change orgininal variable
+
+13. in replace(), only first string is replaced, in order to replace rest of duplicates of same string, put global flag /g with the string and remove the quotations like /hello/g,
+
+14. Similarly, to replace similar strings with different cases, use i flag like /hello/i
+
+16 split("character on which string will be divided") on string gives an array of that string with elements equal to the string characters divided at the provided character.
+
+
+17 Math class has many functions for mathermatical operations
+
+18. Math.round() , rounds off the values normally.
+
+19 MAth.ceil() rounds off only to higher number like 5.6 to 6 and 5.3 to 6 as well.
+
+20. Math.floor() rounds off to lower number only like 5.6 to 5 and 5.2 to 5 as well
+
+21. MAth.random() gives number randomly between 0 to 1, excluding 1
+
+22. other math functions like Math.pow(), Math.sqrt(), Math.abs(), Math.sin(), Math.cos(), Math.min(), Math.max(), Math.exp(), Math.log()
+
+23. Math.toFixed(3) will round off the number to three decimal places
+
+24. Date object gives current date and time according to that of your pc. It has many functions and its variable is initialized with new keyword like var dat = new Date()
+
+continue from video 131
