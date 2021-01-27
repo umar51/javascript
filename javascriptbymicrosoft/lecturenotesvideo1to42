@@ -1,0 +1,78 @@
+
+
+1. Javascript is used for both serverside(backend) and clientside(frontend)
+
+2. In frontend, javascript follows DOM , (Document Object Model), this gives javascript access to html tags and apply different features to it like styling/css
+
+3. Nodejs is used to run Javascript outside web browsser
+
+4. To install and update nodejs, NVM is used (Node Version Manager)
+
+5. "%s" and template literals `${}` are used to combine variables with strings/texts in console.log
+
+6. variables can be declared by 1. var   2. let   3. const
+
+7. Var declared variable can
+a. can be used outside the block where declared.
+b. can be changed anywhere
+c. is available for use everywhere even before the declaration in code.
+
+
+8. let declared variable can
+a. cannot be used outside the block where declared.
+b. can be changed anywhere
+c. is available for use only after declared
+
+9. const declared variable can
+a. cannot be used outside the block where declared.
+b. cannot be changed once declared
+c. is available for use only after declared
+
+10. const should be used where variable is not needed to be changed later on
+
+11. let is desirable inside loops. 
+
+12. data type of a variable can be changed 
+
+13. 0 == " " True, 0 === " " False, because === also checks data type 
+
+14. method of typeOf var gives data type of this var.
+
+15. method var instanceof datatype tells true or false if var is that data type or not
+
+16. Using new Number(9) constructor make a number variable, its data type will be object instead of integer 
+
+17. math operator a%b gives remainder of a divide by b , a++ increment, a-- decrement
+
+18. Math object has advance maths features like MAth.Pi gives value of  pie and Math.Sqrt(9) gives squaroot of 9 
+
+19. To convert number to string, use number.toString()
+
+20. to convert a string number to integer or float, use parseInt(str), parsFloat(str)
+
+21. parseInt('1+1') will give 1 only while parseInt(`${'1+1'}`) will give 2
+
+22. like == and === , in != and !== the defference is that !== also checks the data type as well.
+
+33. in if else, if the code is of single line, the {} can exempted like : if (condition) a=a+1;
+
+34. Ternary instant is similar to if else in function
+    syntax: const a = (condition) ? "if true run this": "if false run this";
+
+35. Array can also be created like : arr = Array(lengthofarray);
+
+36. array.pop() and array.push() adds and substracts values at end of array
+
+37. array.unshift() ands array.shift() adds and ermoves values to start of array
+
+38. array=arr1.concat(arr2); array will have elements of both arrays with arr1 values first and arr2 value after them.
+
+39. Function name cannot contain special characters like #$%^ etc
+
+40 arrow functions: for signle line expressions in arow functions, no need for {} and return keyword, it will return implicitly the value of that expression. No new contant can be defined inside this.
+But if there is code of multiline expression, then we have to explicitly return the value by keyword return. New function can be defined in this .
+
+41. JSON is a text format, internet communication require data to be in text format so JSON is used for this purpose.
+
+42. Javascript object is converted to JSON for internet communication
+

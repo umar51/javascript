@@ -1,0 +1,35 @@
+
+1. Packages are chunk of javascript code available at different websites that can be used as code , or as tool for coding like templates, whole apps, tools typescript, reactjs, vanillajs etc.
+
+2. we will use npm javascript manager to download install and use javascript packages.
+
+3. packages have a JSON file that has Metadate, Dependencies list and Script.
+
+a. Metadate is info about author release date etc
+
+b. Dependencies is list of packages that are in our whole package.
+
+c. Script are code lines that can be written in this list to automate some task while coding the programs.
+
+4 Dependencies and Dev dependences: 
+
+a. Dependences are those code packages that are required for development as well as execution of our program so they are loaded with the application.
+
+b. Devdependences are those code packages that are only required for development of program and are not loaded with the application.
+
+To save a devdependence use npm install --save-dev dependencyname 
+
+5. In script section, shorter form of lengthy commands are written , so that short form can be used later to run that command eg. 
+We downloaded a package prettier, in script we added "format": "prettier --write *.js", now we just have to enter npm run format and prettier runs 
+
+5.a The npm scripts list on left bottom has all the custom script there. Clicking them directly also executes that scripts command.
+6. Express package is used to create web server and web apis
+
+7. Prettier package is used to make a code more readable to user.
+
+8. dotenv package is used to manage program secrets like username passward etc. a separate file named .env is made and values are stored in that file , 
+
+8.a A separate .gitignore file made to add .env file to it so that it may not get uploaded to github while sharing your code.
+
+done
+

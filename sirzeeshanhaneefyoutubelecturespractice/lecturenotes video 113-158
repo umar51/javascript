@@ -54,4 +54,41 @@
 
 24. Date object gives current date and time according to that of your pc. It has many functions and its variable is initialized with new keyword like var dat = new Date()
 
-continue from video 131
+25. passing a date string inside Date object will display that passed date 
+
+26. Epoch time is the time from which all computer systems measure time which is 1st January 1970
+
+27. Unix time is the time in miliseconds passed till today since Epoch time or 1st January 1970 00:00:00 
+
+28. zero passed to date object gives epoch time
+
+29. getYear(), getMonth, getDay() methods are used to call or modify the part of the full date object
+
+30. similarly to modify a date part, use methods of setYear, setMonth(), setDay() etc
+
+31. Functions have code that can be called later on by its name and whole code is not needed to be written again and again
+
+32. Parameters are expected values that function will recieve and arguements aer the valeus that are sent to those paraments
+
+33. TO return a value from function use return keyword, when retunr keyword is reached, code exits the function with the returned value
+
+34. If no value is returned, then by default a javascript functions return undefined value.
+
+35. More agruements can be passed to a funtion than used inside, unused arguements will return as undefined.
+
+36. Any kind of values can be passed to agruements to function.
+
+37. variable defined without var keyword will always be global variable even if it is defined inside a function, it will still be callable outside that function
+
+38. variables with var keyword will be local if defined inside a function and only usable within that function
+
+39. function can be saved into a variable as funct = function () { //code}; function saqved in variable funct
+
+40. Javascript has default Hoisting feature, it means variables and functions can also be used before their definition in code.
+
+41. if arguements passed with different name to the function where parameter name is different then changes to that paarmeter inside the funtion will not be visible in the original arguement outside function(in case of variables), in case of arrays and dictionaries change will be visible.
+
+42. recursive function calls itself inside itself to act like a loop
+
+done
+

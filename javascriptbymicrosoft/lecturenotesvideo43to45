@@ -1,0 +1,44 @@
+
+
+1. Objects are consists of variables and functions, function of object are called methods. Both are called prpperties/attributes of object.
+1.a Empty Object can be created by const obj = new Object(). Its constructor method of object creation
+1.b Defining and giving values together at once is called literal  method of object creation.
+
+2. to call variable of object : object.variabel or object["variable"]
+
+3. TO access object method : object.method or object["method"]
+
+4. TO use object method : object.method() or object["method"]()
+
+5. This keyword is related to using the variables inside object that are in its parents scope.
+
+6. variables of objects: their values can be changesd but their names cannot be changed once defined.
+
+7. Concept of this in funtions and methods:
+   this returned inside a function or method returns object with variables of its environment inside that object.
+
+8. If this is returned from a fucntion in main body of code, then it will return the variables of OS/WIndows/Browser
+
+9 The variables of main environment that is OS, can be called by keyword globalThis as an object.
+
+10. Promises are used to perform multiple functions at a time. Usually code works by completing a line of code then moves to next code. Using promises we can execute next code meanwhile previous code is in progress.
+
+11. setTimeOf() is method to delay a code time in miliseconds
+
+12. Promise is object defined with new Promise(()=>{}) , it also has .then and .catch object associated with it. All of them has arrow functions inside them. 
+
+13. The promise is inside a function while .then and .catch can be outside that function.
+
+14. Arrow function of promise defines two variables Resolve and Reject which are also functions itself. On successful conmpletion of a code inside promise, the resolve is returned and .then arrow function runs. If promise retunrs Reject the the catch arrow function runs.
+
+15. Multitasking functionality appears here. To perform multiple task with same function, more then one then are used in code, each previous then calling the function with return keyword again and passing the result to the next then. 
+
+16. Similarly a new value can be passed from previous then can be passed to the function in the next then. 
+
+17. Here promise inside main function has main process to complete. Then announces whne process is complete and can assign task to another function while catch announces if code fails.
+
+16. Async functions are contemporary to .then and easy to code.
+
+
+
+done

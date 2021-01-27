@@ -1,0 +1,19 @@
+
+1. switches runs a code if its case equates the given expression.
+
+2. break; is used to exit switch, if break is not used in a case, then switch will run all cases till end.
+
+3. switch case comparison is strict, even data type should also match with the value for a case to run
+
+4. In while loop condition is checked before loop body is executed.
+
+while(condition){ code }
+
+5. In do while, loop body is executed first, then condition is checked.
+
+do { code   } 
+while(condition)
+
+DONE
+
+SIR Zeeshan javascript youtube completed here
